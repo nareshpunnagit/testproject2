@@ -11,6 +11,7 @@
 		        <Label text="number"/>
 		        <table:template>
 		            <Text text="{number}"/>
+		            <Text text="{number}"/>
 		        </table:template>
 		    </table:Column>
 		</table:Table>
