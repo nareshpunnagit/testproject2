@@ -12,6 +12,9 @@
 		        <table:template>
 		            <Text text="{number}"/>
 		            <Text text="{number}"/>
+		            
+		            <Text text="{number4}"/>
+		            <Text text="{number3}"/>
 		        </table:template>
 		    </table:Column>
 		</table:Table>
